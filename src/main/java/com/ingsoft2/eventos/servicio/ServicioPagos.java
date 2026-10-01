@@ -12,7 +12,7 @@ import com.ingsoft2.eventos.evento.StockReservado;
  * que hay producto para entregar. El orden del proceso lo definen los eventos a los que
  * se suscribe cada servicio, no un método que llame a los demás en secuencia.
  *
- * <p>Publica PagoAprobado o PagoRechazado.
+ * Publica PagoAprobado o PagoRechazado.
  */
 public class ServicioPagos {
 

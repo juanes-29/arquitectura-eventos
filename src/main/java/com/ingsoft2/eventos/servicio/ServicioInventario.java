@@ -19,12 +19,12 @@ import java.util.Map;
  *
  * Publica:
  *   StockReservado si había unidades suficientes.
- *   StockInsuficiente} si no las había.
+ *   StockInsuficiente si no las había.
  *
  *
  * Que un servicio reaccione a un evento publicando otro es lo que forma la cadena
  * del proceso. A este estilo, donde no hay un "jefe" que coordine y cada servicio sabe
- * qué hacer cuando ocurre algo, se le llama <b>coreografía.
+ * qué hacer cuando ocurre algo, se le llama coreografía.
  */
 public class ServicioInventario {
 
